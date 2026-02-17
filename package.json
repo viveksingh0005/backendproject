@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "my first backend project in express , node",
+  "keywords": [
+    "javscript",
+    "backend",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "\"vivek singh\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
